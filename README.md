@@ -75,9 +75,9 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/rn-movie-app.git
+git clone https://github.com/harshikreddy/Movie-App.git
 
-cd rn-movie-app
+cd Movie-App
 ```
 
 **Installation**
